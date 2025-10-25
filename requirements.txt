@@ -1,0 +1,24 @@
+# SecureDNS - Cryptographic DNS Simulator
+# Python Dependencies
+
+# Cryptography - RSA signatures and key management
+cryptography==41.0.7
+
+# PyCryptodome - AES encryption
+pycryptodome==3.19.0
+
+# Click - Command-line interface
+click==8.1.7
+
+# Colorama - Colored terminal output
+colorama==0.4.6
+
+# Tabulate - Pretty table formatting
+tabulate==0.9.0
+
+# Testing (optional but recommended)
+pytest==7.4.3
+pytest-cov==4.1.0
+
+# Installation:
+# pip install -r requirements.txt
